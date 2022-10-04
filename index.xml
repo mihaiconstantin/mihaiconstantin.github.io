@@ -12,11 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mihaiconstantin.com/about/</guid>
-      <description>I am passionate about the intersection of research, psychology, data science, and web development.
-I started as an undergraduate in cognitive psychology, and along the way, I developed a keen interest in methodology and statistics for social sciences. I am particularly interested in generalized linear models applied to psychopathological screening and personality and intelligence assessment. Among other things, I work with network and time series models. A big chunk of my daily work consists of designing and implementing complex simulation designs in R, Python, and C++.</description>
+      <description>I am passionate about the intersection of research, psychology, data science, and software development.
+I started as an undergraduate in cognitive psychology, and along the way, I developed a keen interest in methodology and statistics for social sciences. I am particularly interested in generalized linear models and latent variable models applied to psychopathological screening and personality and intelligence assessment. Among other things, I work with network, multi-level, and time series models.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
